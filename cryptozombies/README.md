@@ -1,7 +1,8 @@
-# CryptoZombies
+# CryptoZombies — evidência do Exercício 1
 
-Estado: en curso, lección 5, capítulo 15.
+Esta pasta guarda os trechos de código apresentados nas abas da página CryptoZombies aberta durante a realização da lição. São evidências do trabalho e do material utilizado; a plataforma apresenta alguns trechos parciais, pelo que estes ficheiros não representam necessariamente contratos autónomos compiláveis.
 
-Lección actual: https://cryptozombies.io/es/lesson/5/chapter/15
+- Página consultada: https://cryptozombies.io/es/lesson/6/chapter/1
+- Progresso partilhado: https://share.cryptozombies.io/es/lesson/2/share/ZombieLoco?id=Y3p8Njc3MTg5
 
-Esta URL abre una lección de CryptoZombies; no es una URL Git para clonar. Al terminar las lecciones solicitadas, guardar aquí el código Solidity exportado o copiado desde la plataforma y una nota breve sobre los conceptos practicados.
+Os ficheiros mantêm os nomes das abas da plataforma: `zombieownership.sol`, `zombieattack.sol`, `zombiehelper.sol`, `zombiefeeding.sol`, `zombiefactory.sol`, `ownable.sol`, `safemath.sol` e `erc721.sol`.
